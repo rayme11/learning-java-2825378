@@ -27,8 +27,5 @@ public class PrimitiveTypes_StudentExample{
         Scanner input = new Scanner(System.in);
         studentGPA = input.nextDouble();
         System.out.println(studentName + " has a GPA of: " + studentGPA);
-
-
-
-    }
+ }
 }
