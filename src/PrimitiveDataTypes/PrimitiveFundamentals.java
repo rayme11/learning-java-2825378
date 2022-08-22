@@ -9,6 +9,7 @@ public class PrimitiveFundamentals {
 
     public static void main(String[] args){
 
+
         int i = 0;
         boolean yes = true;
         char myChar = 'C';
